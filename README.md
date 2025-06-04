@@ -18,7 +18,9 @@ Resultados: O Random Forest apresentou melhor desempenho, com R² = 0.98 e MAE =
 pip install -r requirements.txt
 ```
 
-Abra o Notbook diretamente no Google Colab
+Para abrir o notbook diretamente no Google Colab clique no botão "Open in Colab".
+
+Faça o upload do dataset quando solicitado.
 
 ## Estrutura do Projeto
 
@@ -31,11 +33,11 @@ Abra o Notbook diretamente no Google Colab
 
 ## Principais Resultados
 
-Modelo	R² Score	MAE	RMSE
+Modelo	- R² Score	- MAE	= RMSE
 
-Regressão Linear	0.96	0.25	0.35
+Regressão Linear	- 0.96	- 0.25	- 0.35
 
-Random Forest	0.98	0.11	0.26
+Random Forest -	0.98	- 0.11	- 0.26
 
 ## Próximos Passos
 
